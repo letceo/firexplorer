@@ -1,0 +1,19 @@
+/**
+ * Theme Name: Fire Education Platform -fireeducationplatform-
+ * Template:   twentytwentyfour
+ * ...other header fields
+ */
+
+/**----------------------------------------------------GLOBAL-------------------------------------------------------------------------------------*/
+
+
+
+/**----------------------------------------------------HOMEPAGE-----------------------------------------------------------------------------------*/
+
+.homepage-hero{
+	border-radius:30px!important;
+}
+
+.homepage-header{
+	box-shadow:var(--wp--preset--shadow--shadow-1)!important;
+}
